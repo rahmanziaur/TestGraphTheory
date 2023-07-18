@@ -1,4 +1,4 @@
-,Id,Label,Degree,Pageranks,Eigencentrality,Reachability,Log2_reach,R_Reachability,R_Log2_reach,RiskScore,Category,PR_Category,R_Category,R_Lo10_reach
+,Id,Label,Degree,Pageranks,Eigencentrality,Reachability,Log2_reach,R_Reachability,R_Log2_reach,RiskScore,Category,PR_Category,R_Category,R_reach_by100
 22,22,six-1.16.0,893,0.020897,0.460884,1,0,4897,15.75768248,0.758409361,H,D,D,48.97
 34,34,idna-3.4,41,0.003475,0.077516,1,0,4456,15.62153352,0.638660348,H,T,D,44.56
 156,156,pycparser-2.21,9,0.002986,0.00599,1,0,4399,15.60295989,0.722789175,H,T,D,43.99
